@@ -1,0 +1,42 @@
+*{
+
+    box-sizing: border-box;
+
+}
+
+body{
+
+	margin: auto;
+	padding: 2em;
+    background: #008080 ;
+
+
+h1{
+    }
+    text-center
+    color: white; 
+
+   }
+
+.row{
+
+	padding: 1rem;
+    }
+
+.barra{
+
+	background-color: #008080 ;
+    }
+
+.cajaBorde {
+    background-color:#008080 ;
+	border-style: ;
+    border-color: ;
+    height: 30VH;
+}
+
+
+
+
+
+ 

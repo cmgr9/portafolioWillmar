@@ -1,0 +1,44 @@
+*{
+
+    box-sizing: border-box;
+
+}
+
+body{
+
+    background: #008080; 
+	margin: auto;                         /*Efectos para foto* tenia margin auto*/
+	padding: 2em;
+    
+    
+    
+
+    }
+
+h1{
+
+    color: white; 
+
+   }
+
+.row{
+
+	padding: 1rem;
+    }
+
+.barra{
+
+	background-color: ##7FB3D5;
+    }
+
+.cajaBorde {
+
+	border-style: solid;
+    border-color: #FF266E;
+    height: auto;
+}
+
+
+
+
+ 

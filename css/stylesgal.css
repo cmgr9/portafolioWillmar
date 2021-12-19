@@ -1,0 +1,37 @@
+*{
+
+    box-sizing: border-box;
+
+}
+
+body{
+    background: #7FB3D5;
+	margin: auto;
+	padding: 2em;
+
+h1{
+    }
+    text-center
+    color: black; 
+
+    }
+
+.row{
+
+	padding: 1rem;
+    }
+
+.barra{
+
+	background-color: ##7FB3D5 ;
+    }
+
+.cajaBorde {
+    background-color:##7FB3D5 ;
+	border-style: ;
+    border-color: ;
+    height: 30VH;
+}
+
+
+ 

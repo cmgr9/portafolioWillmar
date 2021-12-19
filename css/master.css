@@ -1,0 +1,25 @@
+
+.logo 
+{ with:25px;
+  height:25px;  
+     }
+
+
+.video-container
+{
+  position: absolute;
+  z-index: -100;
+  top:0;
+  left:0;
+  width: 100%;
+  height:calc(100vw * 0.5625 ); /*El alto se calcula*/
+  overflow: hidden;   
+}
+
+.video-container video
+{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;  
+}
